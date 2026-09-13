@@ -11,3 +11,7 @@ Version 0.3.0 makes the loot board explain itself in one view: **Scan → Compar
 Version 0.4.0 replaces the report-like Overview with **At a glance**: available totals, real scene loot, strong matches, and possible duplicates only. Missing skill-item checks and variant diagnostics are not shown to players. Stacks gain a compact amount chooser, partial transfers keep the selected item open, and dead-scene loot can move directly into the Party stash.
 
 Fit hints read only Party-member level, abilities, skills, and standard weapon or armor category proficiency. Armor is split into **Strong fit** and **Can use** by its Strength requirement and Dexterity cap. A Strong fit is proficient, meets Strength, and has Dexterity within one point of the cap. This is a compatibility signal, not a build verdict: feats, speeds, armor specialization, current gear, and player plans remain **Player choice**. The audit never inspects character inventory. Transfers are an explicit player action and PF2e still enforces source and destination permissions.
+
+## Get help
+
+[Get Help](https://github.com/Spazzletopia-Studios/spazzmods-support) — report a bug, get install help, ask a question, or suggest an idea.
