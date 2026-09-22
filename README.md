@@ -1,4 +1,6 @@
-# Party Armory Audit
+# PF2e Party Armory
+
+Formerly named Party Armory Audit; the module id `pf2e-party-armory-audit` is unchanged, so existing installs keep updating.
 
 Standalone PF2e v14 module. It places one compact **Armory audit** button below the real Party sheet tab row. The button opens a midnight-styled AppV2 window for party-use loot review and distribution.
 
