@@ -2,7 +2,9 @@
 
 Formerly named Party Armory Audit; the module id `pf2e-party-armory-audit` is unchanged, so existing installs keep updating.
 
-Standalone PF2e v14 module. It places one compact **Armory audit** button below the real Party sheet tab row. The button opens a midnight-styled AppV2 window for party-use loot review and distribution.
+Requirements: Foundry VTT 13 with the Pathfinder Second Edition system 7.12.2, or Foundry VTT 14 with PF2e 8.x.
+
+Standalone PF2e module. It places one compact **Armory audit** button below the real Party sheet tab row. The button opens a midnight-styled AppV2 window for party-use loot review and distribution.
 
 It reads only the Party actor's stash and the inventories of dead non-character actors on the active scene. It does not inspect active character inventories. It changes an item only after a player explicitly gives an amount to a Party member or moves scene loot into the Party stash; PF2e's native permissions and transfer API remain authoritative.
 
